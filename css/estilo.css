@@ -7,6 +7,10 @@
 .caja2{
 	border: 2px solid #979D9B;
 	border-style: solid;
+	border-radius: 5px;
+	border-bottom-right-radius:15px; 
+
+ 
 }
 #menu{
 	border: 2px solid #57D3B1;
